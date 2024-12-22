@@ -12,8 +12,8 @@
     ],
     "require": {
         "drupal/core": ">=10.4",
-        "drupal/editor_advanced_link": "^2.0",
-        "drupal/linkit": "^7.0@alpha",
-        "drupal/responsive_tables_filter": "^1.18"
+        "drupal/editor_advanced_link": "^2",
+        "drupal/linkit": "^7",
+        "drupal/responsive_tables_filter": "^2"
     }
 }
