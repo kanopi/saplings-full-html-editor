@@ -9,6 +9,8 @@ install:
   - media
   - media_library
   # Contrib.
+  - ckeditor5_plugin_pack
+  - ckeditor_bs_grid
   - editor_advanced_link
   - linkit
   - responsive_tables_filter
