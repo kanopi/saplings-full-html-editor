@@ -11,7 +11,7 @@
         }
     ],
     "require": {
-        "drupal/core": ">=10.4",
+        "drupal/core": "^10.4 || ^11",
         "drupal/ckeditor5_plugin_pack": "^1",
         "drupal/ckeditor_bs_grid": "^2",
         "drupal/editor_advanced_link": "^2",
